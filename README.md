@@ -1,1 +1,3 @@
-# PublicKey
+# Public Key Cryptography
+First, we'll watch [this video on Public Key Encryption](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6). Then we will use code.org's [Public Key Widget](https://studio.code.org/projects/applab/eM58hKG7dxjrupZH1Pm91Q) to simulate how public key encryption is used when one person, in this case *Bob* wants to send a secret message to a second persion *Alice* when a third person *Eve* can view the contents of the messages that pass between them. Alice and Bob are two “place holder” names that are often used in explanations of cryptography and computer science. The third character Eve gets her name because she is an *eavesdropper*.
+(Eavesdropper is an archaic term for someone who secretly stands under the “eaves”  of a house to listen to private conversations).
